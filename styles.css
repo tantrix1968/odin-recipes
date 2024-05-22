@@ -1,0 +1,11 @@
+* {
+    font-family: Tahoma, Verdana, Geneva, sans-serif;
+    text-align: center;
+    font-size: 36px;
+    color: rgb(127, 54, 229);
+}
+h1 {
+    font-size: 56px;
+    color: rgb(153, 22, 144);
+    font-weight: bolder;
+}

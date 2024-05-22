@@ -1,0 +1,30 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+    color: coral;
+}
+h1 {
+    font-size: 42px;
+}
+
+h2 {
+    font-size: 33px;
+}
+
+p {
+    color: brown;
+}
+
+h3 {
+    font-size: 26px;
+}
+
+ul li {
+    color: rgba(226, 103, 66, 0.861);
+}
+
+ol li {
+    color: darkgoldenrod;
+}
+
+
